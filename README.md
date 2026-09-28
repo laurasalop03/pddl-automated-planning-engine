@@ -1,5 +1,7 @@
 # Automated Planning Engine: Heuristic Search & State-Space Optimization
 
+_Developed for the Intelligent Systems Techniques course (Técnicas de los Sistemas Inteligentes, 2025-26), Computer Science and Mathematics double degree, University of Granada._
+
 A PDDL-based automated planning engine designed to solve complex, multi-agent logistical and scheduling problems. The models are solved using the Fast Downward planning system, focusing heavily on mitigating combinatorial explosions through heuristic search and strict state-space reduction techniques.
 
 ### Tech Stack
